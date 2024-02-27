@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "express": "^4.18.2"
+  },
+  "name": "aula1",
+  "version": "1.0.0",
+  "description": "Aula do Chines Criando Primeiro Projeto Node Paga um Salgado pra gente chines!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Ariosi",
+  "license": "ISC"
+}
